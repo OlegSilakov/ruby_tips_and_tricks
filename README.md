@@ -12,3 +12,6 @@ http://www.bignerdranch.com/blog/reasonable-rspec-config-for-clean-and-slightly-
 
 FuuBar gem provides cool bar for rspec tests.
 https://github.com/thekompanee/fuubar
+
+Nice and funny nian catty formatter
+https://github.com/mattsears/nyan-cat-formatter
